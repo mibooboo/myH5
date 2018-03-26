@@ -5,6 +5,6 @@ function myTrick(){
 }
 alert("1=I am ohard");
 
-myTrick();*/
+myTrick();
 
 alert("2=I am oeasy");
